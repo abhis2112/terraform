@@ -7,3 +7,8 @@
 
 # .tfvars files
 *.tfvars
+
+# Module Directory
+.terraform/
+
+.DS_Store
